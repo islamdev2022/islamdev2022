@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @islamdev2022
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end 
-- 💞️ I’m learning by doing projects 
+-  I’m interested in web development
+-  I’m currently learning front-end 
+-  I’m learning by doing projects 
 - 📫 How to reach me "islam.birouk.2004@gmail.com
 
 <!---
