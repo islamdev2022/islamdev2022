@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Birouk Islam</h1>
 <h3 align="center">A frontend developer beginner on my way to full stack</h3>
-<img align ="right" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=zVnWJtyG&id=DD98F234AA38146969628EB60AFC0BEB754F79ED&thid=OIP.zVnWJtyGOX_kUIDm6ccCfQHaEq&mediaurl=https%3A%2F%2Fwww.codecorners.com%2Fwp-content%2Fuploads%2F2018%2F05%2Fsenior-front-end-developer-openings-1.gif&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.cd59d626dc86397fe45080e6e9c7027d%3Frik%3D7XlPdesL%252fAq2jg%26pid%3DImgRaw%26r%3D0&exph=428&expw=680&q=frontend+gif&simid=608037193494903298&form=IRPRST&ck=B9E99E0CFCAB6469EB1AC54ECE14AA52&selectedindex=4&ajaxhist=0&ajaxserp=0&vt=0&sim=11")
+<img align ="right" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=islamdev2022&label=Profile%20views&color=0e75b6&style=flat" alt="islamdev2022" /> </p>
 
