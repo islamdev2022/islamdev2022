@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamdev2022&show_icons=true&locale=en" alt="islamdev2022" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamdev2022&show_icons=true&locale=en&layout=compact" alt="islamdev2022" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=islamdev2022&" alt="islamdev2022" /></p>
