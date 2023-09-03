@@ -2,12 +2,11 @@
 <h3 align="center">A frontend developer beginner on my way to full stack</h3>
 <img align ="right" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif")
 
+  🌱 I’m currently learning **React , node js ,java , Python**
 
-- 🌱 I’m currently learning **React , node js ,java , Python**
+- 👨‍💻 All of my projects are available (in the repositories)
 
-- 👨‍💻 All of my projects are available [in the repositories](in the repositories)
-
-- 💬 Ask me about **HTML,CSS,Javascript,C,java,PHP**
+- 💬 Ask me about **HTML,CSS,Javascript,C,java,PHP,react**
 
 - 📫 How to reach me **islam.birouk.2004@gmail.com**
 
