@@ -2,7 +2,6 @@
 <h3 align="center">A frontend developer beginner on my way to full stack</h3>
 <img align ="right" width="400" src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif")
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islamdev2022&label=Profile%20views&color=0e75b6&style=flat" alt="islamdev2022" /> </p>
 
 - 🌱 I’m currently learning **React , node js ,java , Python**
 
