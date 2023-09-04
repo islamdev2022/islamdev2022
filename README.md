@@ -21,4 +21,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamdev2022&show_icons=true&theme=dark&title_color=e00000&text_color=ffffff&locale=en&layout=compact" alt="islamdev2022" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamdev2022&layout=compact" alt="islamdev2022"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamdev2022&layout=compact" theme=dark title_color=e00000&text_color=ffffff alt="islamdev2022"/></p>
