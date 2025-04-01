@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Birouk Mohammed Islam</h1>
-<h3 align="center">A Software/Web Developer from Algeria</h3>
+## Hi there! 👋
 
-- 👨‍💻 All of my projects are available at [https://islambirouk.space](https://islambirouk.space)
+I'm **Birouk Mohammed Islam**, a passionate developer from **Jijel, Algeria**. I love creating innovative applications and exploring new technologies. Let's build something great together!
 
-- 💬 Ask me about **React js/ Next js / node js / tailwindcss / mysql .....**
+## About Me
 
-- 📫 How to reach me **islam.birouk.2004@gmail.com**
+I'm currently a software developer with a focus on web applications and real-time communications. I enjoy working with TypeScript and JavaScript and am always eager to learn new technologies and improve my skills.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/birouk islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birouk islam" height="30" width="40" /></a>
-<a href="https://fb.com/birouk islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="birouk islam" height="30" width="40" /></a>
-<a href="https://instagram.com/islamo._.birouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="islamo._.birouk" height="30" width="40" /></a>
+## Skills & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,ts,js,nextjs,py,git,github,django,electron,nodejs,express,mysql,mongodb,vscode,supabase,firebase,vercel,postman,vite,bash,prisma,npm,java" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Top Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamdev2022&show_icons=true&locale=en&layout=compact" alt="islamdev2022" /></p>
+- [Chat-App](https://github.com/islamdev2022/Chat-App) - A real-time chat application with end-to-end encryption. ⭐️ 0 | Language: JavaScript
+- [aghselni-webapp](https://github.com/islamdev2022/aghselni-webapp) - A web application for managing appointments. ⭐️ 0 | Language: TypeScript
+- [Typing-Battle](https://github.com/islamdev2022/Typing-Battle) - A typing game to test your speed and accuracy. ⭐️ 0 | Language: TypeScript
+- [TP-buffer-overflow](https://github.com/islamdev2022/TP-buffer-overflow) - A project focused on buffer overflow vulnerabilities. ⭐️ 0 | Language: Python
+- [TP4-TNM1](https://github.com/islamdev2022/TP4-TNM1) - An image processing application that applies filters to reduce noise. ⭐️ 0 | Language: Python
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=islamdev2022&show_icons=true&locale=en" alt="islamdev2022" /></p>
+## GitHub Stats
+
+🌟 **Public Repositories:** 47  
+👥 **Followers:** 17  
+🔗 **Following:** 24  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamdev2022&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed updates to [aghselni-webapp](https://github.com/islamdev2022/aghselni-webapp) on March 28, 2025.
+- Updated the [Chat-App](https://github.com/islamdev2022/Chat-App) with new features on March 26, 2025.
+- Committed changes to [Typing-Battle](https://github.com/islamdev2022/Typing-Battle) on March 25, 2025.
+
+## My Portfolio
+
+Check out my Portfolio that has all the projects : [islambirouk.space](https://islambirouk.space)
