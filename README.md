@@ -16,17 +16,20 @@ I'm currently a software developer with a focus on web applications and real-tim
 
 ## Top Projects
 
-- [Chat-App](https://github.com/islamdev2022/Chat-App) - A real-time chat application with end-to-end encryption. ⭐️ 0 | Language: JavaScript
-- [aghselni-webapp](https://github.com/islamdev2022/aghselni-webapp) - A web application for managing appointments. ⭐️ 0 | Language: TypeScript
-- [Typing-Battle](https://github.com/islamdev2022/Typing-Battle) - A typing game to test your speed and accuracy. ⭐️ 0 | Language: TypeScript
-- [TP-buffer-overflow](https://github.com/islamdev2022/TP-buffer-overflow) - A project focused on buffer overflow vulnerabilities. ⭐️ 0 | Language: Python
-- [TP4-TNM1](https://github.com/islamdev2022/TP4-TNM1) - An image processing application that applies filters to reduce noise. ⭐️ 0 | Language: Python
+- [Chat-App](https://github.com/islamdev2022/Chat-App) - A real-time chat application with end-to-end encryption.  | Language: JavaScript
+- [aghselni-webapp](https://github.com/islamdev2022/aghselni-webapp) - A web application for managing appointments.  | Language: TypeScript
+- [Typing-Battle](https://github.com/islamdev2022/Typing-Battle) - A typing game to test your speed and accuracy.  | Language: TypeScript
+- [TP-buffer-overflow](https://github.com/islamdev2022/TP-buffer-overflow) - A project focused on buffer overflow vulnerabilities.  | Language: Python
+- [TP4-TNM1](https://github.com/islamdev2022/TP4-TNM1) - An image processing application that applies filters to reduce noise.  | Language: Python
 
 ## GitHub Stats
 
 🌟 **Public Repositories:** 47  
 👥 **Followers:** 17  
 🔗 **Following:** 24  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islamdev2022&show_icons=true&locale=en&layout=compact" alt="islamdev2022" /></p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=islamdev2022&show_icons=true&theme=radical)
 
 ## Recent Activity
