@@ -109,7 +109,7 @@ Interactive typing speed game to challenge your skills.
 </div>
 
 ### 📈 Activity Overview
-- 🌟 **56 Public Repositories** showcasing diverse projects
+- 🌟 **58 Public Repositories** showcasing diverse projects
 - 👥 **30 Followers** & **31 Following**
 - 📚 **Continuous learner** committed to growth
 ---
